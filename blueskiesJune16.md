@@ -9,5 +9,6 @@ Chlorophyll is the green pigment responsible for harvesting light.
 But chlorophyll has mostly been studied in leaves, not fruit.
 
 ## Aim of the research
+Aim of this research is to understand wheat regulates the green/yellow colour in kiwifruit
 ## Proposed research
 ## References
